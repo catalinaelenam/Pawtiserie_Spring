@@ -1,4 +1,8 @@
-This is a pet bakery that specializes in custom designed cakes. We can register as a client, manage orders on website(delete one order), add a cake, see all categories, add new category, update one category. See all orders history and delete one order from history. From what we see, right now the admin functionality is build. In the future we want to extend the logic to fully serve as an online cake shop for our furry friends, so we want a client to login and order one cake from our site 😊. My DB Diagram: image
+This is a pet bakery that specializes in custom designed cakes. We can register as a client, manage orders on website(delete one order), add a cake, see all categories, add new category, update one category. See all orders history and delete one order from history. From what we see, right now the admin functionality is build. In the future we want to extend the logic to fully serve as an online cake shop for our furry friends, so we want a client to login and order one cake from our site 😊. 
+
+My DB Diagram: 
+![image](https://user-images.githubusercontent.com/94255705/214360891-09b607c5-9abd-461d-9a2c-c61c7e996c6e.png)
+
 
 Entities: CakeCategory - this table contains informations about the cakes (how they are named and some useful things about them).
 
